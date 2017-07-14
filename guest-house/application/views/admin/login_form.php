@@ -38,6 +38,7 @@
                             <input type="password" id="password" name="password" placeholder="" class="input-xlarge">
                         </div>
                     </div>
+
                     <div class="control-group">
                         <!-- Button -->
                         <div class="controls">

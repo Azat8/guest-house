@@ -29,7 +29,9 @@
                         <li class="active">
                             <a href="#">Home</a>
                         </li>
-
+                        <li>
+                            <a href="<?=base_url()?>/admin/logout">Logout</a>
+                        </li>
                     </ul>
                 </div>
             </div>
